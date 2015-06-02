@@ -5,6 +5,9 @@
     <container qualifier="arquillian-glassfish-embedded" default="true">
         <configuration>
             <property name="bindHttpPort">9090</property>
+            <property name="resourcesXml">
+                src/test/resources/glassfish-resources.xml
+            </property>
         </configuration>
     </container>
 </arquillian>
