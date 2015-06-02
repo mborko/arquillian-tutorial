@@ -16,8 +16,11 @@ It was necessary to add the aquillian.xml configuration file to the Netbeans pro
 
 The entire pom.xml_ and the additional dependencies_ are also online.
 
+Recently I've added also the jpa-tutorial_ from arquillian. See for yourself!
+
 
 
 .. _tutorial: http://arquillian.org/guides/getting_started_de/
+.. _jpa-tutorial: http://arquillian.org/guides/testing_java_persistence/
 .. _pom.xml: https://gist.github.com/mojavelinux/1263934
 .. _dependencies: http://arquillian.org/modules/arquillian-glassfish-embedded-3.1-container-adapter/
