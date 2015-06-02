@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Tue Jun 02 14:27:52 CEST 2015:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-014d-b43e-0196-0000109cc218 
+Tue Jun 02 15:23:20 CEST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-014d-b470-cb66-000008979e28 
 on database directory /home/mike/NetBeansProjects/arquillian-tutorial/target/databases/derby with class loader sun.misc.Launcher$AppClassLoader@42a57993 
 Loaded from file:/home/mike/.m2/repository/org/glassfish/main/extras/glassfish-embedded-all/4.1/glassfish-embedded-all-4.1.jar
 java.vendor=Oracle Corporation
